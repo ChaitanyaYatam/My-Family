@@ -1,0 +1,13 @@
+h1{
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+body{
+    background-color:skyblue;
+    text-align: center;
+}
+img{
+height: 500px;
+width: 400;
+}
